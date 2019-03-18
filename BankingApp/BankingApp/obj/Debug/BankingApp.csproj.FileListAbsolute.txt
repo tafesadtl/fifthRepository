@@ -12,6 +12,12 @@ D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\bin\Deb
 D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\bin\Debug\BankingApp.pdb
 D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\BankingApp.exe
 D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
+<<<<<<< HEAD
 C:\investment\fifthRepository\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
 C:\investment\fifthRepository\BankingApp\BankingApp\obj\Debug\BankingApp.exe
 C:\investment\fifthRepository\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
+=======
+C:\Temp\cheque\fifthRepository\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+C:\Temp\cheque\fifthRepository\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+C:\Temp\cheque\fifthRepository\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
+>>>>>>> remotes/origin/feat_cheque1
